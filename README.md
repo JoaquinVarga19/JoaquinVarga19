@@ -16,7 +16,7 @@
 - :student: Voy a seguir aprendiendo nuevas tecnologias y publicandolo aca.
 - :nerd_face: Me gusta aprender cosas nuevas.
 - :thinking: Abierto a nuevas oportunidades [MI CURRICULUM]().
-- :boom: Puedes visitar [MI LINKEDIN](https://www.linkedin.com/in/joaquin-varga-563020373/).
+- :boom: Puedes visitar [MI PORTFOLIO]().
 <br>
 
 ## Mis habilidades
